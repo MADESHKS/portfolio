@@ -1,34 +1,34 @@
 import React from 'react'
 
-import projectimg from '../assets/project.png'
+import projectimgs from '../assets/project.png'
 
 const Projects = () => {
      const config={
           project:[
                {
                id:1,
-               image:projectimg,
+               image:projectimgs,
                title:'TODO LIST',
                description:'Creating the app using a JavaScript and Html-css',
                link:'https://madeshks.github.io/TODO-LIST/'
           },
                {
                     id:2,
-                    image:projectimg,
+                    image:projectimgs,
                     title:'QR CODE GENERATOR',
                     description:'Creating the app using a React and css',
                     link:'https://madeshks.github.io/QR-code-generator/'
                },
                {
                     id:3,
-                    image:projectimg,
+                    image:projectimgs,
                     title:'BOOKYS',
                     description:'Creating the app using a React and Html-css',
                     link:'https://madeshks.github.io/BOOKSY/'
                },
                {
                     id:4,
-                    image:projectimg,
+                    image:projectimgs,
                     title:'TEXT TO SPEECH',
                     description:'Creating the app using a JavaScript and Html-css',
                     link:'https://madeshks.github.io/Text-To-Speech/'
