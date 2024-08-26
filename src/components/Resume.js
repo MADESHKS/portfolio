@@ -1,9 +1,10 @@
 import React from 'react'
 import resumeimg from '../assets/resume.jpg'
 
+
 const Resume = () => {
      const config={
-          link:'https://www.africau.edu/image/default/sample.pdf'
+          link:'/RESUME MADESHK.pdf'
      }
      
   return (<section id='resume' className='flex  flex-col md:flex-row bg-secondary px-5 py-15'>
